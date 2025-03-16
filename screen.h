@@ -4,6 +4,7 @@ define VGA_MEMORY       (unsigned char *)0xB8000
 #define VGA_WIDTH        80
 #define VGA_HEIGHT       25
 
+//vga colors
 #define COLOR_BLACK           0
 #define COLOR_BLUE            1
 #define COLOR_GREEN           2
